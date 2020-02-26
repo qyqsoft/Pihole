@@ -1,5 +1,5 @@
 ##############################################
-## GEZ Staatsfunk Propaganda Medien sperren ##
+## GEZ Staatsfunk Medien sperren            ##
 ##############################################
 
 funk.net
