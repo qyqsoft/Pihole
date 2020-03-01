@@ -87,6 +87,7 @@ wdr2.de
 wdr3.de
 wdr4.de
 wdr5.de
+wdr-mediagroup.com
 you-fm.de
 
 arte-magazin.de
@@ -102,6 +103,7 @@ dw.com
 daserste.ndr.de
 blog.ard-hauptstadtstudio.de
 ticketservice.zdf.de
+newsletter.wdr-mediagroup.com
 
 ### www #####################################
 
@@ -185,6 +187,7 @@ www.wdr2.de
 www.wdr3.de
 www.wdr4.de
 www.wdr5.de
+www.wdr-mediagroup.com
 www.you-fm.de
 
 www.arte-magazin.de
