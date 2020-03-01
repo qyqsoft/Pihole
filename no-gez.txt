@@ -42,6 +42,7 @@ wdr.de
 zdf.de
 zdfinfo.de
 zdfneo.de
+zdf-service.de
 sportschau.de
 
 arteradio.com
@@ -137,6 +138,7 @@ www1.wdr.de
 www.zdf.de
 www.zdfinfo.de
 www.zdfneo.de
+www.zdf-service.de
 www.sportschau.de
 
 www.arteradio.com
