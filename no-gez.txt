@@ -3,6 +3,7 @@
 ########################
 
 funk.net
+correctiv.org
 
 3sat.de
 ard.de
@@ -89,9 +90,12 @@ mein-kika.de
 media.ndr.de
 radiobremen-media.de
 
+daserste.ndr.de
+
 ### www #####################################
 
 www.funk.net
+www.correctiv.org
 
 www.3sat.de
 www.ard.de
