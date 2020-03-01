@@ -35,6 +35,8 @@ swr.de
 swrfernsehen.de
 tagesschau.de
 tagesschau24.de
+tagesthemen.de
+nachtmagazin.de
 tivi.de
 wdr.de
 zdf.de
@@ -91,6 +93,8 @@ mein-kika.de
 media.ndr.de
 radiobremen-media.de
 
+dw.com
+
 daserste.ndr.de
 blog.ard-hauptstadtstudio.de
 
@@ -125,6 +129,8 @@ www.swr.de
 www.swrfernsehen.de
 www.tagesschau.de
 www.tagesschau24.de
+www.tagesthemen.de
+www.nachtmagazin.de
 www.tivi.de
 www.wdr.de
 www1.wdr.de
@@ -178,3 +184,5 @@ www.dasganzewerk.de
 www.funk.net
 www.mein-kika.de
 www.radiobremen-media.de
+
+www.dw.com
