@@ -8,6 +8,7 @@ correctiv.org
 3sat.de
 ard.de
 ardmediathek.de
+ardaudiothek.de
 ard-digital.de
 ard-alpha.de
 ard-hauptstadtstudio.de
@@ -21,7 +22,10 @@ hr-fernsehen.de
 kika.de
 kikaninchen.de
 mdr.de
+mdr-werbung.de
+mdr-die-studiotour.de
 ndr.de
+ndrmedia.de
 ndrtv.de
 one.ard.de
 phoenix.de
@@ -33,6 +37,10 @@ sr.de
 sr-online.de
 swr.de
 swrfernsehen.de
+swrmediathek.de
+swr-shop.de
+swrfakefinder.de
+swrmediaservices.de
 tagesschau.de
 tagesschau24.de
 tagesthemen.de
@@ -81,6 +89,7 @@ sr1.de
 sr2.de
 sr3.de
 swr3.de
+swr3service.de
 swraktuell.de
 unserding.de
 wdr2.de
@@ -95,12 +104,16 @@ b3-history.de
 dasganzewerk.de
 funk.net
 mein-kika.de
+kindernetz.de
+planet-schule.de
 media.ndr.de
 radiobremen-media.de
 
 dw.com
+ticketding.de
 
 daserste.ndr.de
+programm.ard.de
 blog.ard-hauptstadtstudio.de
 ticketservice.zdf.de
 newsletter.wdr-mediagroup.com
@@ -113,6 +126,7 @@ www.correctiv.org
 www.3sat.de
 www.ard.de
 www.ardmediathek.de
+www.ardaudiothek.de
 www.ard-digital.de
 www.ard-alpha.de
 www.ard-hauptstadtstudio.de
@@ -126,7 +140,10 @@ www.hr-fernsehen.de
 www.kika.de
 www.kikaninchen.de
 www.mdr.de
+www.mdr-werbung.de
+www.mdr-die-studiotour.de
 www.ndr.de
+www.ndrmedia.de
 www.ndrtv.de
 www.phoenix.de
 www.rbb-online.de
@@ -134,6 +151,10 @@ www.sr.de
 www.sr-online.de
 www.swr.de
 www.swrfernsehen.de
+www.swrmediathek.de
+www.swrfakefinder.de
+www.swrmediaservices.de
+www.swr-shop.de
 www.tagesschau.de
 www.tagesschau24.de
 www.tagesthemen.de
@@ -181,6 +202,7 @@ www.sr1.de
 www.sr2.de
 www.sr3.de
 www.swr3.de
+www.swr3service.de
 www.swraktuell.de
 www.unserding.de
 www.wdr2.de
@@ -195,6 +217,10 @@ www.b3-history.de
 www.dasganzewerk.de
 www.funk.net
 www.mein-kika.de
+www.kindernetz.de
+www.planet-schule.de
 www.radiobremen-media.de
 
 www.dw.com
+ticketding.de
+
