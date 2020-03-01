@@ -15,6 +15,10 @@ ard-hauptstadtstudio.de
 arte.de
 arte.tv
 br.de
+br-shop.de
+br-media.de
+brreisen.de
+br-ticket.de
 daserste.de
 hr.de
 hr-online.de
@@ -24,6 +28,7 @@ kikaninchen.de
 mdr.de
 mdr-werbung.de
 mdr-die-studiotour.de
+mdr-ticketshop.de
 ndr.de
 ndrmedia.de
 ndrtv.de
@@ -35,6 +40,7 @@ rbb-online.de
 mediathek.rbb-online.de
 sr.de
 sr-online.de
+sr-mediathek.de
 swr.de
 swrfernsehen.de
 swrmediathek.de
@@ -133,6 +139,10 @@ www.ard-hauptstadtstudio.de
 www.arte.de
 www.arte.tv
 www.br.de
+www.br-shop.de
+www.br-media.de
+www.br-ticket.de
+www.brreisen.de
 www.daserste.de
 www.hr.de
 www.hr-online.de
@@ -142,6 +152,7 @@ www.kikaninchen.de
 www.mdr.de
 www.mdr-werbung.de
 www.mdr-die-studiotour.de
+www.mdr-ticketshop.de
 www.ndr.de
 www.ndrmedia.de
 www.ndrtv.de
@@ -149,6 +160,7 @@ www.phoenix.de
 www.rbb-online.de
 www.sr.de
 www.sr-online.de
+www.sr-mediathek.de
 www.swr.de
 www.swrfernsehen.de
 www.swrmediathek.de
