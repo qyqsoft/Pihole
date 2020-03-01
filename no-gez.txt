@@ -43,6 +43,9 @@ zdf.de
 zdfinfo.de
 zdfneo.de
 zdf-service.de
+zdf-shop.de
+zdf-enterprises.de
+zdf-werbefernsehen.de
 sportschau.de
 
 arteradio.com
@@ -98,6 +101,7 @@ dw.com
 
 daserste.ndr.de
 blog.ard-hauptstadtstudio.de
+ticketservice.zdf.de
 
 ### www #####################################
 
@@ -139,6 +143,9 @@ www.zdf.de
 www.zdfinfo.de
 www.zdfneo.de
 www.zdf-service.de
+www.zdf-shop.de
+www.zdf-enterprises.de
+www.zdf-werbefernsehen.de
 www.sportschau.de
 
 www.arteradio.com
