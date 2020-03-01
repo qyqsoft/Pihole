@@ -10,6 +10,7 @@ ard.de
 ardmediathek.de
 ard-digital.de
 ard-alpha.de
+ard-hauptstadtstudio.de
 arte.de
 arte.tv
 br.de
@@ -91,6 +92,7 @@ media.ndr.de
 radiobremen-media.de
 
 daserste.ndr.de
+blog.ard-hauptstadtstudio.de
 
 ### www #####################################
 
@@ -102,6 +104,7 @@ www.ard.de
 www.ardmediathek.de
 www.ard-digital.de
 www.ard-alpha.de
+www.ard-hauptstadtstudio.de
 www.arte.de
 www.arte.tv
 www.br.de
